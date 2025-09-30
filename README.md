@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 RESUMO DAS PRINCIPAIS FUNCIONALIDADES MINISTRADAS - P1 BACK-END
 ================================================================
 
@@ -122,3 +123,6 @@ Comportamentos:
 Esta implementação demonstra como combinar conceitos modernos de Python
 (dataclasses, decoradores) com padrões de DDD para criar entidades
 robustas e bem estruturadas.
+=======
+# Python_DDD_Category_Entity
+>>>>>>> f5f62a2544691219cf1eab62f0e924bd2aaf0e00
