@@ -1,0 +1,1 @@
+# Python_DDD_Category_Entity
